@@ -1,13 +1,13 @@
 //
-//  SlipBoxProjectTests.swift
-//  SlipBoxProjectTests
+//  SlipboxProjectTests.swift
+//  SlipboxProjectTests
 //
-//  Created by Jacek Kosinski U on 22/06/2023.
+//  Created by Karin Prater on 18.11.22.
 //
 
 import XCTest
 
-final class SlipBoxProjectTests: XCTestCase {
+final class SlipboxProjectTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

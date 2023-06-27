@@ -1,13 +1,13 @@
 //
-//  SlipBoxProjectUITestsLaunchTests.swift
-//  SlipBoxProjectUITests
+//  SlipboxProjectUITestsLaunchTests.swift
+//  SlipboxProjectUITests
 //
-//  Created by Jacek Kosinski U on 22/06/2023.
+//  Created by Karin Prater on 18.11.22.
 //
 
 import XCTest
 
-final class SlipBoxProjectUITestsLaunchTests: XCTestCase {
+final class SlipboxProjectUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
